@@ -1,6 +1,12 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-FO2IBli-4hn61Rg7QyRek.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cyprus News, Business &amp; Living Guides | Cyprus Pulse</title>
