@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cypruspulse.com/index.html</loc>
+    <loc>https://cypruspulse.org/index.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/news.html</loc>
+    <loc>https://cypruspulse.org/news.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/business.html</loc>
+    <loc>https://cypruspulse.org/business.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/property.html</loc>
+    <loc>https://cypruspulse.org/property.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/travel.html</loc>
+    <loc>https://cypruspulse.org/travel.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/technology.html</loc>
+    <loc>https://cypruspulse.org/technology.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/article.html</loc>
+    <loc>https://cypruspulse.org/article.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/about.html</loc>
+    <loc>https://cypruspulse.org/about.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/contact.html</loc>
+    <loc>https://cypruspulse.org/contact.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/privacy.html</loc>
+    <loc>https://cypruspulse.org/privacy.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/terms.html</loc>
+    <loc>https://cypruspulse.org/terms.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/cookies.html</loc>
+    <loc>https://cypruspulse.org/cookies.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://cypruspulse.com/404.html</loc>
+    <loc>https://cypruspulse.org/404.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
