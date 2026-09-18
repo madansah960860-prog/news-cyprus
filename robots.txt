@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://cypruspulse.com/sitemap.xml
+Sitemap: https://cypruspulse.org/sitemap.xml
