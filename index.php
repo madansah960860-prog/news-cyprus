@@ -7,12 +7,12 @@
 <meta name="description" content="Independent English-language news and information for Cyprus: clear explainers on politics, business, property, travel and technology across all five districts.">
 <meta name="geo.region" content="CY">
 <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAHklEQVR4nGPg9u8iCTGMahiWGk4I6MHRUNVAhVACAFEi5iGwLlrQAAAAAElFTkSuQmCC">
-<link rel="canonical" href="https://cypruspulse.com/index.html">
+<link rel="canonical" href="https://cypruspulse.org/index.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Cyprus Pulse">
 <meta property="og:title" content="Cyprus News, Business &amp; Living Guides | Cyprus Pulse">
 <meta property="og:description" content="Independent English-language news and information for Cyprus: clear explainers on politics, business, property, travel and technology.">
-<meta property="og:url" content="https://cypruspulse.com/index.html">
+<meta property="og:url" content="https://cypruspulse.org/index.html">
 <meta property="og:image" content="https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&amp;fit=crop&amp;w=1200&amp;q=80">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Cyprus News, Business &amp; Living Guides | Cyprus Pulse">
@@ -40,11 +40,11 @@ gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true });
   "@context": "https://schema.org",
   "@type": "NewsMediaOrganization",
   "name": "Cyprus Pulse",
-  "url": "https://cypruspulse.com/",
+  "url": "https://cypruspulse.org/",
   "description": "Independent English-language news and information publication based in Nicosia, Cyprus.",
   "foundingLocation": { "@type": "Place", "name": "Nicosia, Cyprus" },
   "address": { "@type": "PostalAddress", "addressLocality": "Nicosia", "postalCode": "1010", "addressCountry": "CY" },
-  "contactPoint": { "@type": "ContactPoint", "contactType": "Editorial", "email": "editor@cypruspulse.com" }
+  "contactPoint": { "@type": "ContactPoint", "contactType": "Editorial", "email": "editor@cypruspulse.org" }
 }
 </script>
 <script type="application/ld+json">
@@ -52,10 +52,10 @@ gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true });
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Cyprus Pulse",
-  "url": "https://cypruspulse.com/",
+  "url": "https://cypruspulse.org/",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": { "@type": "EntryPoint", "urlTemplate": "https://cypruspulse.com/index.html?q={search_term_string}" },
+    "target": { "@type": "EntryPoint", "urlTemplate": "https://cypruspulse.org/index.html?q={search_term_string}" },
     "query-input": "required name=search_term_string"
   }
 }
